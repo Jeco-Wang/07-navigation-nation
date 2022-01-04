@@ -40,14 +40,6 @@ function toggleNav() {
     // Animate Out - Nav Items
     navAnimation('in', 'out');
   }
-
-  /* Another Way */
-  // if (menuBars.classList.contains('change')) {
-  //   // Animate In - Overlay
-  //   overlay.classList.add('overlay-slide-right');
-  // } else {
-  //   overlay.classList.add('overlay-slide-left');
-  // }
 }
 
 // Event Listeners
